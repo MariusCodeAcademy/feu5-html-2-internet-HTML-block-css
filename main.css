@@ -98,3 +98,19 @@ h2 {
   margin-left: 0;
   margin-right: 20px;
 }
+
+/* FOOTER ============================ */
+
+footer {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.footer-social {
+  padding-left: 0;
+  list-style: none;
+}
+.social-li {
+  display: inline-block;
+}
