@@ -99,6 +99,15 @@ h2 {
   margin-right: 20px;
 }
 
+/* quote ============================ */
+.quote {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(78, 78, 78);
+  color: snow;
+  text-align: center;
+}
+
 /* FOOTER ============================ */
 
 footer {
@@ -113,4 +122,12 @@ footer {
 }
 .social-li {
   display: inline-block;
+}
+
+.social-li {
+  color: #333;
+  font-size: 20px;
+}
+.social-li:hover {
+  color: rgb(116, 116, 116);
 }
