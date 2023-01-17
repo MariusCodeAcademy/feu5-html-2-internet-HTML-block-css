@@ -72,4 +72,29 @@ h1 {
   vertical-align: top;
   margin-top: 80px;
   margin-left: 35px;
+  border-radius: 10px;
+}
+
+h2 {
+  margin-top: 0;
+  font-weight: normal;
+  font-size: 30px;
+}
+
+.text-small {
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+}
+
+/* Coffe section ========================== */
+.coffe {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: rgb(211, 211, 211);
+}
+
+.coffe-img {
+  max-height: 100px;
+  margin-left: 0;
+  margin-right: 20px;
 }
