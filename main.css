@@ -16,11 +16,27 @@ a {
   margin: 0 auto;
 }
 
+.btn-main {
+  border: none;
+  padding: 8px 16px;
+  background-color: #333;
+  color: snow;
+  cursor: pointer;
+}
+
+.btn-main:hover {
+  background-color: snow;
+  color: #333;
+}
+
 /* Header styles =========================== */
 
 header {
   color: snow;
   background-color: tomato;
+  position: sticky;
+  top: 0;
+  box-shadow: 1px 1px 5px rgb(0 0 0);
 }
 
 .nav-link {
